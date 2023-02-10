@@ -1,1 +1,1 @@
-# python-test_calculator
+# 練習でPythonで作った電卓のテストです
